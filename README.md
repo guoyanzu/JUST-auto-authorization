@@ -1,2 +1,3 @@
 # JUST-auto-authorization
 Auto authotize of JUST network,for headless server or something else...
+Still works till June,2022
